@@ -1,9 +1,3 @@
-/*
-Student ID:18970601
-Name: Ibrahim George 
-Campus: Penrith 
- */
-
 import java.util.Scanner; //for keyboard
 import java.text.DecimalFormat; // for the decimals
 public class Population {
