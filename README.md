@@ -17,7 +17,7 @@ To run this program, you need to have Java installed on your machine.
 3. **Compile the Java file:**
 ```javac Population.java```
 
-4. ***Run the compiled program:***
+4. **Run the compiled program:**
 ```java Population```
 
 # Usage
